@@ -30,7 +30,7 @@ const Home = () => {
             </div>
             <div className='py-[52px]'>
                 <div>
-                    <h5 className='text-center lg:text-[48px] text-[32px] font-extrabold'>OUR HAPPY CUSTOMERS</h5>
+                    <h5 className='text-center lg:text-[48px] text-[37px] leading-none font-extrabold'>OUR HAPPY CUSTOMERS</h5>
                 </div>
             </div>
             <div className='bg-white w-full xl:px-28 px-4'>
